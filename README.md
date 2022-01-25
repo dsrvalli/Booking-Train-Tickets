@@ -1,17 +1,21 @@
 # Booking-Train-Tickets
 Concept: REST API will support multiple formats using CONTENT TYPE &amp; ACCEPT HEADER
 
-- [ ] Here the  Usecase is Business to Business communication (B TO B) & (C 2 B):
-- [ ] Usecase: How the REST API supports the multiple formats  
+# Why we are developing the use case?
+   - [ ]  Here the  Usecase is Business to Business communication (B TO B) & (C 2 B):
+   - [ ]  Usecase: How the REST API supports the multiple formats  
 
+# What is the concept for implementing the multiple formats?
+   - [ ] We can implement by using  content Type & Accept header
 
-- [ ]	To know the concept of where?how?when? to use content Type & Accept header
-- [ ] To improve the business of IRCTC we have Applications like(MakeMyTrip, Yatra, Goibibo)
-- [ ]	The Architecture is one Resource that can have several clients, IRCTC is a web application and also is a distributed application 
-- [ ]	C 2 B (customer can directly communicate with the business) & as well as B 2 B communication so we can write Rest API
-
-
-- [ ] To develop a REST API to book train ticket using below details 
+# Architecture 
+   - [ ] The Architecture is one Resource that can have several clients, IRCTC is a web application and also is a distributed application 
+   - [ ] C 2 B (customer can directly communicate with the business) & as well as B 2 B communication so we can write Rest API
+# Example
+   - [ ] To improve the business of IRCTC we have Applications like(MakeMyTrip, Yatra, Goibibo) 
+   
+  ********  USECASE ******** 
+   - [ ] To develop a REST API to book train ticket using below details 
 
 
 Input : passenger data(name.email,phno,from ,to,jdate,trainNum) (xml&JSON)
